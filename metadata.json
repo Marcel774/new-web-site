@@ -1,0 +1,6 @@
+{
+  "name": "MOVIEFLIX",
+  "description": "Modern movie streaming catalog and full-stack MongoDB movie management studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
